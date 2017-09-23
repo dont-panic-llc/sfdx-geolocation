@@ -36,10 +36,10 @@
             "sourcePath": "/Users/justin/Documents/GitHub/geolocation/force-app/main/default",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 238,
-            "modifiedTime": 1506169240000,
-            "changeTime": 1506169240000,
-            "contentHash": "2a03aff5b6a78e698865b0b7ca95c684af3d4700"
+            "size": 306,
+            "modifiedTime": 1506169841000,
+            "changeTime": 1506169841000,
+            "contentHash": "30dd3cdf7bc200a969a551210090787b646969cc"
         }
     ],
     [
@@ -47,14 +47,13 @@
         {
             "sourcePath": "/Users/justin/Documents/GitHub/geolocation/force-app/main/default/aura",
             "isDirectory": true,
-            "size": 68,
-            "modifiedTime": 1506168231000,
-            "changeTime": 1506168231000,
-            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "size": 102,
+            "modifiedTime": 1506169637000,
+            "changeTime": 1506169637000,
+            "contentHash": "3d90e98fbc9020d164f146383fe90e4450fff933",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -62,14 +61,13 @@
         {
             "sourcePath": "/Users/justin/Documents/GitHub/geolocation",
             "isDirectory": true,
-            "size": 238,
-            "modifiedTime": 1506168322000,
-            "changeTime": 1506168322000,
-            "contentHash": "3dae32c665681fc89661729c131899b7036b97f4",
+            "size": 306,
+            "modifiedTime": 1506168870000,
+            "changeTime": 1506168870000,
+            "contentHash": "4e7c1dce819cac4f989b59112851b4cd18059c1a",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": true,
-            "isArtifactRoot": false
+            "isWorkspace": true
         }
     ],
     [
@@ -816,40 +814,222 @@
     [
         "/Users/justin/Documents/GitHub/geolocation/force-app/main/default/class",
         {
-            "state": "u",
             "sourcePath": "/Users/justin/Documents/GitHub/geolocation/force-app/main/default/class",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 136,
             "modifiedTime": 1506169240000,
             "changeTime": 1506169240000,
-            "contentHash": "394b1dbe1438ba6603e160e7ca14b28335c1ba9c"
+            "contentHash": "394b1dbe1438ba6603e160e7ca14b28335c1ba9c",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/justin/Documents/GitHub/geolocation/force-app/main/default/class/AccountControllers.cls",
         {
-            "state": "u",
             "sourcePath": "/Users/justin/Documents/GitHub/geolocation/force-app/main/default/class/AccountControllers.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 339,
             "modifiedTime": 1506169545000,
             "changeTime": 1506169545000,
-            "contentHash": "118fb13d5290cc3e273c147907d7b0d9fb67c9f5"
+            "contentHash": "118fb13d5290cc3e273c147907d7b0d9fb67c9f5",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/justin/Documents/GitHub/geolocation/force-app/main/default/class/AccountControllers.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/justin/Documents/GitHub/geolocation/force-app/main/default/class/AccountControllers.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 196,
             "modifiedTime": 1506169240000,
             "changeTime": 1506169240000,
-            "contentHash": "d50758ee18c8b3626651b072b7dc286a83a6175f"
+            "contentHash": "d50758ee18c8b3626651b072b7dc286a83a6175f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/justin/Documents/GitHub/geolocation/force-app/main/default/aura/AccountLocation",
+        {
+            "sourcePath": "/Users/justin/Documents/GitHub/geolocation/force-app/main/default/aura/AccountLocation",
+            "isDirectory": true,
+            "size": 272,
+            "modifiedTime": 1506169637000,
+            "changeTime": 1506169637000,
+            "contentHash": "123fa2162b62345e96f38cb73ddcb091f0b936f5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/justin/Documents/GitHub/geolocation/force-app/main/default/aura/AccountLocation/AccountLocation.cmp",
+        {
+            "sourcePath": "/Users/justin/Documents/GitHub/geolocation/force-app/main/default/aura/AccountLocation/AccountLocation.cmp",
+            "isDirectory": false,
+            "size": 155,
+            "modifiedTime": 1506169664000,
+            "changeTime": 1506169664000,
+            "contentHash": "4973781b6f5a7cdf3300fcbd0f4e944ff3c6df45",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/justin/Documents/GitHub/geolocation/force-app/main/default/aura/AccountLocation/AccountLocation.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/justin/Documents/GitHub/geolocation/force-app/main/default/aura/AccountLocation/AccountLocation.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 247,
+            "modifiedTime": 1506169637000,
+            "changeTime": 1506169638000,
+            "contentHash": "9b1f61a84891770ff72b81296389285adeb879f7",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/justin/Documents/GitHub/geolocation/force-app/main/default/aura/AccountLocation/AccountLocation.css",
+        {
+            "sourcePath": "/Users/justin/Documents/GitHub/geolocation/force-app/main/default/aura/AccountLocation/AccountLocation.css",
+            "isDirectory": false,
+            "size": 107,
+            "modifiedTime": 1506169677000,
+            "changeTime": 1506169677000,
+            "contentHash": "a5c9b9b3a4ca13e6f26fff87b25355434a0e9dfb",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/justin/Documents/GitHub/geolocation/force-app/main/default/aura/AccountLocation/AccountLocationController.js",
+        {
+            "sourcePath": "/Users/justin/Documents/GitHub/geolocation/force-app/main/default/aura/AccountLocation/AccountLocationController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1506169637000,
+            "changeTime": 1506169638000,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/justin/Documents/GitHub/geolocation/force-app/main/default/aura/AccountLocation/AccountLocationHelper.js",
+        {
+            "sourcePath": "/Users/justin/Documents/GitHub/geolocation/force-app/main/default/aura/AccountLocation/AccountLocationHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1506169637000,
+            "changeTime": 1506169638000,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/justin/Documents/GitHub/geolocation/force-app/main/default/aura/AccountLocation/AccountLocationRenderer.js",
+        {
+            "sourcePath": "/Users/justin/Documents/GitHub/geolocation/force-app/main/default/aura/AccountLocation/AccountLocationRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1506169637000,
+            "changeTime": 1506169638000,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/justin/Documents/GitHub/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/justin/Documents/GitHub/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 268,
+            "modifiedTime": 1506169841000,
+            "changeTime": 1506169841000,
+            "contentHash": "586c81c5f9dcc9dc684619f3cb8781d820f2ae39"
+        }
+    ],
+    [
+        "/Users/justin/Documents/GitHub/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/justin/Documents/GitHub/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6002,
+            "modifiedTime": 1506169841000,
+            "changeTime": 1506169841000,
+            "contentHash": "3b54d7adbdd291fe9bc04e456bd0826df88600fe"
+        }
+    ],
+    [
+        "/Users/justin/Documents/GitHub/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/justin/Documents/GitHub/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18120,
+            "modifiedTime": 1506169841000,
+            "changeTime": 1506169841000,
+            "contentHash": "623306d05b7bfe385b4f70bab07b78a39baa6408"
+        }
+    ],
+    [
+        "/Users/justin/Documents/GitHub/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/justin/Documents/GitHub/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5666,
+            "modifiedTime": 1506169841000,
+            "changeTime": 1506169841000,
+            "contentHash": "992104f548623e55b9c9fa369bc51b220cb857c1"
+        }
+    ],
+    [
+        "/Users/justin/Documents/GitHub/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/justin/Documents/GitHub/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5662,
+            "modifiedTime": 1506169841000,
+            "changeTime": 1506169841000,
+            "contentHash": "8aedc24a115ec594356233f8dd0189c6e702858e"
+        }
+    ],
+    [
+        "/Users/justin/Documents/GitHub/geolocation/force-app/main/default/tabs",
+        {
+            "state": "u",
+            "sourcePath": "/Users/justin/Documents/GitHub/geolocation/force-app/main/default/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1506169841000,
+            "changeTime": 1506169841000,
+            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f"
+        }
+    ],
+    [
+        "/Users/justin/Documents/GitHub/geolocation/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/justin/Documents/GitHub/geolocation/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 204,
+            "modifiedTime": 1506169841000,
+            "changeTime": 1506169841000,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
         }
     ]
 ]
